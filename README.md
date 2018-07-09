@@ -111,7 +111,7 @@ Soucet obsahu: 100
 ```
 
 Kde čerpat:
-[python glob] (https://pymotw.com/2/glob/) jedna z cest jak to lze udělat.
+[python glob](https://pymotw.com/2/glob/) jedna z cest jak to lze udělat.
 
 Odevzdava se stejně.
 

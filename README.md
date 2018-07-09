@@ -83,6 +83,9 @@ Souborů ve složce: 10
 Součet obsah: 100
 ```
 
+Kde čerpat:
+[os.walk](https://docs.python.org/3/library/os.html#os.walk) jedna z cest jak projít adresář
+
 Odevzdává se stejně.
 
 ## Úkol 5: Filtrování načítání souborů
@@ -106,6 +109,9 @@ Souborů ve složce: 20
 Ignorovano: 10
 Soucet obsahu: 100
 ```
+
+Kde čerpat:
+[python glob] (https://pymotw.com/2/glob/) jedna z cest jak to lze udělat.
 
 Odevzdava se stejně.
 

@@ -1,0 +1,3 @@
+Pocet vsech souboru ve slozce: 20
+ Pocet neignorovanych souboru ve slozce: 10
+ Soucet obsahu neignorovanych souboru: 48

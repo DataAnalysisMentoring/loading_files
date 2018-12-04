@@ -1,0 +1,2 @@
+Pocet souboru ve slozce test_files je: 20.
+ Soucet obsahu vsech souboru ve slozce je: 90.
